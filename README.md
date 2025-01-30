@@ -22,5 +22,5 @@ I'm a passionate software developer working on exciting web and app development 
 
 ### 📞 Connect with Me
 - [GitHub](https://github.com/Mangeshs1134)
-- [LinkedIn](https://www.linkedin.com/in/mangesh-gupta-30b14b227/)
+- [LinkedIn](https://www.linkedin.com/in/mangesh-gupta-30b14b227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
