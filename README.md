@@ -10,8 +10,9 @@ I'm a passionate software developer working on exciting web and app development 
 - **Database**: MySQL, SQLite
 
 ### 🌟 Featured Projects
-- [**Yummy - Recipe Sharing App** 🍲](https://github.com/Mangeshs1134/yummy-recipe-app): A Django-based app for browsing and sharing recipes.
-- [**Mega Blog** 🚀](https://github.com/Mangeshs1134/mega-blog): A React-based blogging platform with Appwrite backend.
+-.[CricScore - A cricket score app](https://github.com/Mangeshs1134/CRICSCORE-a_cricket_app)
+- [**Yummy - Recipe Sharing App** 🍲](https://github.com/Mangeshs1134/Django_Learnings/tree/main/Yummy_a_recipe_app): A Django-based app for browsing and sharing recipes.
+- [**Mega Blog** 🚀](https://github.com/Mangeshs1134/Social-web-app-React-Mega-Project): A React-based blogging platform with Appwrite backend.
 
 ### 📈 GitHub Stats
 ![Mangesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mangeshs1134&show_icons=true&theme=radical)
