@@ -4,7 +4,7 @@
 I'm a passionate software developer working on exciting web and app development projects. I love experimenting with new technologies and building user-centric applications.
 
 ### 🛠️ My Tech Stack
-- **Languages**: Python, JavaScript, React, Django
+- **Languages**: Python, JavaScript, Java, React, Django
 - **Frameworks & Libraries**: React, Tailwind, Bootstrap
 - **Backend**: Appwrite, Django REST Framework
 - **Database**: MySQL, SQLite
